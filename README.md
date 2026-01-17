@@ -10,7 +10,5 @@
 
 # Spotify :
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vaeria79)
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vaeria79&count={count})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vaeria79&width={width})
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vaeria79&unique={true|1|on|yes})
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
