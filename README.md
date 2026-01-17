@@ -1,5 +1,5 @@
-# 💫 About Me:
-🌱 I'm just a girl<br>
+#🌱 I'm just a girl
+<br>
 
 
 # 💻 Tech Stack:
