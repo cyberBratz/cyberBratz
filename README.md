@@ -7,8 +7,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=cyberBratz&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberBratz&theme=dracula&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-
+# Spotify :
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vaeria79)
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vaeria79&count={count})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vaeria79&width={width})
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=vaeria79&unique={true|1|on|yes})
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
