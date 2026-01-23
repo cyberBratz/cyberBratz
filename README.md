@@ -7,6 +7,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=cyberBratz&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=cyberBratz&theme=cobalt&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-![Ns](https://i.pinimg.com/originals/b5/c1/dc/b5c1dcfc4e84b9b6cbbeef9944b04c3c.gif)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
